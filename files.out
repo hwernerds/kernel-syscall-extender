@@ -1,0 +1,11 @@
+Files dist/linux-5.15.33/arch/x86/entry/syscalls/syscall_64.tbl and /home/werner5/pp2-mkpatch/work/linux-5.15.33/arch/x86/entry/syscalls/syscall_64.tbl differ
+Only in /home/werner5/pp2-mkpatch/work/linux-5.15.33: .config
+Only in /home/werner5/pp2-mkpatch/work/linux-5.15.33: first.config
+Files dist/linux-5.15.33/include/linux/sched.h and /home/werner5/pp2-mkpatch/work/linux-5.15.33/include/linux/sched.h differ
+Files dist/linux-5.15.33/init/init_task.c and /home/werner5/pp2-mkpatch/work/linux-5.15.33/init/init_task.c differ
+Files dist/linux-5.15.33/kernel/fork.c and /home/werner5/pp2-mkpatch/work/linux-5.15.33/kernel/fork.c differ
+Files dist/linux-5.15.33/kernel/sys.c and /home/werner5/pp2-mkpatch/work/linux-5.15.33/kernel/sys.c differ
+Only in /home/werner5/pp2-mkpatch/work/linux-5.15.33: Makefile.mkpatch
+Only in /home/werner5/pp2-mkpatch/work/linux-5.15.33/tools/objtool/arch/x86: lib
+Only in /home/werner5/pp2-mkpatch/work/linux-5.15.33/tools/objtool: fixdep
+Only in /home/werner5/pp2-mkpatch/work/linux-5.15.33/tools/objtool: objtool
